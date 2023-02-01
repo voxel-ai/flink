@@ -313,7 +313,7 @@ try:
                         'pytz>=2018.3', 'fastavro>=1.1.0,<1.4.8', 'requests>=2.26.0',
                         'protobuf>=3.19.0,<=3.21',
                         'numpy>=1.14.3,<1.20; python_full_version < "3.7"',
-                        'numpy>=1.21.4,<1.22.0; python_full_version >= "3.7"',
+                        'numpy>=1.21.4,<1.23.0; python_full_version >= "3.7"',
                         'pandas>=1.0,<1.2.0; python_full_version < "3.7"',
                         'pandas>=1.3.0,<1.4.0; python_full_version >= "3.7"',
                         'pyarrow>=0.15.1,<7.0.0; python_full_version < "3.7"',
