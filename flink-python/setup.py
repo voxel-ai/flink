@@ -318,7 +318,7 @@ try:
                         'pandas>=1.3.0,<1.4.0; python_full_version >= "3.7"',
                         'pyarrow>=0.15.1,<7.0.0; python_full_version < "3.7"',
                         'pyarrow>=5.0.0,<9.0.0; python_full_version >= "3.7"',
-                        'pemja==0.2.6;'
+                        'pemja==0.3.0;'
                         'python_full_version >= "3.7" and platform_system != "Windows"',
                         'httplib2>=0.19.0,<=0.20.4', apache_flink_libraries_dependency]
 
